@@ -8,6 +8,7 @@
 ## 🔥 Projects
 - 📚 Book Store Management System (Python + MySQL)
 - 📧 OTP Generator Web App (Streamlit)
+- Student Attendence System (Full backend with sql)
 - Simple LuckyDraw Game
 - Frontend using Tickenter with python
 
