@@ -18,6 +18,7 @@
 - Try to win Hackathons
 - Learn frontend Properly
 - Learn Django / FastAPI
+- Persue towards Gen Ai in future
 
 📫 Connect with me on LinkedIn :
 https://www.linkedin.com/in/manish-debnath-481a40388/
