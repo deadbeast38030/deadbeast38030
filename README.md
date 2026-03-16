@@ -3,7 +3,9 @@
 🎓 First Year B.Tech Student  
 💻 Passionate about Python & Development  
 📚 Currently learning  Web Development  
-🚀 Building real-world projects  
+🚀 Building real-world projects 
+🚀 Building startup (masun)
+
 
 ## 🔥 Projects
 - 📚 Book Store Management System (Python + MySQL)
