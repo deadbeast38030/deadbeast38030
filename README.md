@@ -1,6 +1,6 @@
 # Hi 👋 I'm Manish Debnath
 
-🎓 First Year B.Tech Student  
+🎓 Second Year B.Tech Student  
 💻 Passionate about Python & Development  
 📚 Currently learning  Web Development  
 🚀 Building real-world projects 
