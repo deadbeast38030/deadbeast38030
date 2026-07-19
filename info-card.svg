@@ -17,7 +17,7 @@
     <text x="130" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
           font-size="14" fill="#c9d1d9">Building Cultivixx — AI-powered urban gardening app</text>
   </g>
-  <g opacity="1" >
+  <g opacity="2" >
     <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
           font-size="14" font-weight="600" fill="#39d353">Currently</text>
     <text x="130" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
