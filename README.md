@@ -5,7 +5,7 @@
 
 <br><br>
 
-<h3><code>deadbeast38030@github ~ $ whoami</code></h3>
+<h3><code>manish@masun.in</code></h3>
 
 <table>
   <tr>
