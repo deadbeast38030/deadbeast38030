@@ -1771,7 +1771,7 @@
       <animate attributeName="opacity" from="0" to="1"
                begin="0.408s" dur="0.25s" fill="freeze" />
     </rect>
-    <rect x="462" y="-11" width="11" height="11" rx="2" fill="#26a641">
+    <rect x="462" y="-11" width="11" height="11" rx="2" fill="#006d32">
       <title>2026-02-26: 10 contributions</title>
       <animate attributeName="y" from="-11" to="76"
                begin="0.42s" dur="0.4s" fill="freeze" calcMode="spline"
@@ -1779,7 +1779,7 @@
       <animate attributeName="opacity" from="0" to="1"
                begin="0.42s" dur="0.25s" fill="freeze" />
     </rect>
-    <rect x="462" y="-11" width="11" height="11" rx="2" fill="#006d32">
+    <rect x="462" y="-11" width="11" height="11" rx="2" fill="#0e4429">
       <title>2026-02-27: 5 contributions</title>
       <animate attributeName="y" from="-11" to="90"
                begin="0.432s" dur="0.4s" fill="freeze" calcMode="spline"
@@ -2916,7 +2916,7 @@
                begin="0.684s" dur="0.25s" fill="freeze" />
     </rect>
     <rect x="756" y="-11" width="11" height="11" rx="2" fill="#39d353">
-      <title>2026-07-19: 18 contributions</title>
+      <title>2026-07-19: 20 contributions</title>
       <animate attributeName="y" from="-11" to="20"
                begin="0.624s" dur="0.4s" fill="freeze" calcMode="spline"
                keySplines="0.2 0.8 0.2 1" />
@@ -2971,5 +2971,5 @@
       <animate attributeName="opacity" from="0" to="1"
                begin="0.696s" dur="0.25s" fill="freeze" />
     </rect>
-  <text x="28" y="142" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">Less</text><rect x="62" y="129" width="11" height="11" rx="2" fill="#161b22"/><rect x="76" y="129" width="11" height="11" rx="2" fill="#0e4429"/><rect x="90" y="129" width="11" height="11" rx="2" fill="#006d32"/><rect x="104" y="129" width="11" height="11" rx="2" fill="#26a641"/><rect x="118" y="129" width="11" height="11" rx="2" fill="#39d353"/><text x="138" y="142" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">More</text><text x="770" y="142" text-anchor="end" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">205 contributions in the last year · 18-day best streak</text>
+  <text x="28" y="142" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">Less</text><rect x="62" y="129" width="11" height="11" rx="2" fill="#161b22"/><rect x="76" y="129" width="11" height="11" rx="2" fill="#0e4429"/><rect x="90" y="129" width="11" height="11" rx="2" fill="#006d32"/><rect x="104" y="129" width="11" height="11" rx="2" fill="#26a641"/><rect x="118" y="129" width="11" height="11" rx="2" fill="#39d353"/><text x="138" y="142" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">More</text><text x="770" y="142" text-anchor="end" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">207 contributions in the last year · 18-day best streak</text>
 </svg>
